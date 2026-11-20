@@ -1,0 +1,37 @@
+[
+  {
+    "id": "R-101",
+    "grid": "G-A",
+    "category": "C-OLD",
+    "received": "2026-03-29T10:00",
+    "due_minutes": 1440
+  },
+  {
+    "id": "R-102",
+    "grid": "G-A",
+    "category": "C-NEW",
+    "received": "2026-04-02T09:15",
+    "due_minutes": 2880
+  },
+  {
+    "id": "R-103",
+    "grid": "G-B",
+    "category": "C-OLD",
+    "received": "2026-03-31T17:30",
+    "due_minutes": 1440
+  },
+  {
+    "id": "R-104",
+    "grid": "G-B",
+    "category": "C-NEW",
+    "received": "2026-04-06T08:00",
+    "due_minutes": 2880
+  },
+  {
+    "id": "R-105",
+    "grid": "G-A",
+    "category": "C-NEW",
+    "received": "2026-04-09T11:00",
+    "due_minutes": ""
+  }
+]

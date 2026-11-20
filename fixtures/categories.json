@@ -1,0 +1,14 @@
+[
+  {
+    "id": "C-OLD",
+    "label": "设施维护",
+    "valid_from": "2025-01",
+    "valid_to": "2026-03"
+  },
+  {
+    "id": "C-NEW",
+    "label": "公共空间设施",
+    "valid_from": "2026-04",
+    "valid_to": ""
+  }
+]

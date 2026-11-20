@@ -1,0 +1,42 @@
+[
+  {
+    "id": "E-1",
+    "case": "R-101",
+    "kind": "assigned",
+    "at": "2026-03-29T11:00",
+    "received_at": "2026-03-29T11:05",
+    "supersedes": ""
+  },
+  {
+    "id": "E-2",
+    "case": "R-101",
+    "kind": "closed",
+    "at": "2026-03-30T12:00",
+    "received_at": "2026-03-30T12:00",
+    "supersedes": ""
+  },
+  {
+    "id": "E-3",
+    "case": "R-102",
+    "kind": "closed",
+    "at": "2026-04-03T10:00",
+    "received_at": "2026-04-03T10:00",
+    "supersedes": ""
+  },
+  {
+    "id": "E-4",
+    "case": "R-103",
+    "kind": "reopened",
+    "at": "2026-04-01T09:00",
+    "received_at": "2026-04-02T13:00",
+    "supersedes": ""
+  },
+  {
+    "id": "E-5",
+    "case": "R-104",
+    "kind": "closed",
+    "at": "2026-04-08T12:00",
+    "received_at": "2026-04-08T12:00",
+    "supersedes": ""
+  }
+]
