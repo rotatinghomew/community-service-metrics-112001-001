@@ -1,5 +1,9 @@
 [project]
 name = "community-analysis-001"
 version = "0.1.0"
+description = "网格民生服务诉求口径与履约分析（合成资料）"
 requires-python = ">=3.11,<3.12"
 dependencies = []
+
+[project.scripts]
+community-analysis = "community_analysis.cli:main"
